@@ -17,9 +17,3 @@ This project includes:
 - `data/` — Folder for input data (if you have one).
 - `notebooks/` — Jupyter Notebooks for experiments (optional).
 
-## ⚙️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/perceptron.git
-   cd perceptron
